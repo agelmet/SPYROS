@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/spyros-ilektrikes-egkatastaseis-logo.png"
+ },
+ "source_md5": "285cbe2a415d8177733005b6e79bdc73",
+ "version": "7684107f",
+ "tile": "#06080C",
+ "crop": null,
+ "header": [
+  "file",
+  "assets/img/spyros-ilektrikes-egkatastaseis-logo-160.webp",
+  "97f14c89e786f6e9805127dcbe129d44"
+ ],
+ "made": "2026-11-10"
+}
